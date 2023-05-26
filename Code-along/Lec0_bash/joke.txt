@@ -1,0 +1,6 @@
+Joke created 2023/05/26 09:09:20
+Why is why spelled why not y
+Beacuse why is not y
+
+
+> writes over the existing data, while >> appends to file
