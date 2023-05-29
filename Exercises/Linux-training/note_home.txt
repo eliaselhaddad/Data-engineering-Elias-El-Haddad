@@ -1,0 +1,2 @@
+hello from note_home
+current path is: /c/Users/hadda/OneDrive/Documents/GitHub/Data-engineering-elias-el-haddad/Exercises/Linux-training
