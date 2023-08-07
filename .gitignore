@@ -162,3 +162,6 @@ cython_debug/
 logs
 plugins
 config
+
+# weather_api_key
+config.py
