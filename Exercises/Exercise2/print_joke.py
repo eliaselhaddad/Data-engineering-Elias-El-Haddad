@@ -1,4 +1,5 @@
 import random
+
 from pyjokes import get_joke
 
 reactions = [
@@ -11,7 +12,7 @@ reactions = [
     "Cue the laugh track!",
     "I'm dying of laughter!",
     "That's so bad, it's good!",
-    "*Insert uncontrollable laughter here*",
+    "*mwahahahahahahahahahaha*",
 ]
 
 
